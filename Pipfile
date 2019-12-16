@@ -9,6 +9,11 @@ verify_ssl = true
 gunicorn = "*"
 flask = "*"
 flask-sqlalchemy = "*"
+tweepy = "*"
+basilica = "*"
+python-decouple = "*"
+scikit-learn = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
